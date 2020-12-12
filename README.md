@@ -1,3 +1,3 @@
 # Wireframes and Prototypes
 
-![loglmg](/logImg.jpg)
+![Readers_wireframe](/Readers_wireframe.jpg)
